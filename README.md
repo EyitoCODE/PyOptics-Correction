@@ -7,7 +7,7 @@ Commercial optical sensors and camera lenses often suffer from radial distortion
 
 This project is a real-time computer vision pipeline engineered to simulate physical optical defects and algorithmically rectify them, bridging the gap between **Optical Physics** and **Software Engineering**.
 
-### 🛠 Technology Stack & Architecture
+###  Technology Stack & Architecture
 * **Language:** Python 3.9+
 * **Computer Vision:** OpenCV (`cv2`)
 * **Matrix Operations:** NumPy
